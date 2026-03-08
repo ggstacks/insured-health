@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Insured Health - Private Medical Insurance News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest private medical insurance news and tips from Insured Health in Hollywood, FL.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2026 16:27:49 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>info@insuredhealthplans.com (Insured Health)</managingEditor>
+    <webMaster>info@insuredhealthplans.com (Insured Health)</webMaster>
+    
+  </channel>
+</rss>
